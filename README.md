@@ -1,2 +1,3 @@
 # AED
-2022 - Algoritmos y Estructura de Datos K1051
+2022, Primer cuatrimestre - Algoritmos y Estructura de Datos - Curso K1051. 
+Legajo: 1600760, Praun Thomas.
